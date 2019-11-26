@@ -1,0 +1,50 @@
+https://github.com/karelrubi/Actividad1GitFlow.git
+[develop]
+git checkout -b featKarel1
+[featKarel1]
+    - creo archivo featKarel1.1
+    git add .
+    git commit -m " [FEATKAREL1] archivo featKarel1.1 creado"
+    commit 1f853ad537686379f36274afe639bd993d3dfebc
+    - creo archivo featKarel1.2
+    git add .
+    git commit -m "[FEATKAREL1] archivo featKarel1.2 creado"
+    commit 512111972537b0c2eaa1768b44b52189ea4cdf4d
+    - creo archivo featKarel1.3
+    git add .
+    git commit -m "[FEATKAREL1] archivo featKarel1.3 creado"
+    commit 519f135611d5f68110cb360e19ef300e4315e01b
+    ------
+    git push -u origin featKarel1 // se crea la rama origin/featKarel1
+    - pull request a develop
+[origin/develop] commit a8d13d2c775a105c02f0d6f5fa3ead5f9f12bd6b
+----------------------------------------------
+(se supone que Mauricio ha hecho un fetch/merge de develop)
+git checkout -b featMauri1 [origin/featMauri1]
+[featMauri1]
+    - creo archivo featMauri1.1
+    git add .
+    git commit -m "[FEATMAURI1] archivo featMauri1.1 creado"
+    commit 220708160b8856f33c699279d34c64f1dfe175a4
+    - creo archivo featMauri1.2
+    git add .
+    git commit -m "[FEATMAURI1] archivo featMauri1.2 creado"
+    commit d9753599f4ae42a23f055c03a59636522bae7914
+    ------
+    git push origin featMauri1
+    - pull request a develop
+    commit 0a78f674ec11bf5e3a0b63208dc8437a6a6fd2e0
+[origin/develop] // el usuario Mauri tendrá que hacer fetch/merge con origin/develop
+-------------
+....
+-------------
+
+
+
+
+
+
+
+
+    
+

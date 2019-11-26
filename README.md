@@ -6,7 +6,7 @@ Este documento servirá como guión para los alumnos de la asignatura Entornos d
 
 - [Página del IES Jesús Marín](https://politecnicomalaga.com/)
 - [Currículo de la asignatura](docs/curriculo.md)
-- [Unidades de la asignatura](### Unidades) 
+- [Unidades de la asignatura](#unidades) 
 
 ### Unidades
 
