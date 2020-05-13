@@ -1,4 +1,4 @@
-# Recuperación del segundo trimestre
+# Recuperación del primer trimestre
 
 Se realizará una prueba el próximo martes 12.
 
